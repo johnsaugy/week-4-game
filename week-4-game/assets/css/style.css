@@ -1,0 +1,112 @@
+*{
+	 font-family: 'Quicksand', sans-serif;
+}
+
+body{
+	background-color: #0066cc;
+}
+header{
+	width:35%;
+	height: 70px;
+	color: white;
+	margin-bottom: 10px;	
+}
+
+#title{
+	color: white;
+	padding-top: 15px;
+
+}
+.instructions{
+	width: 30%;
+	height: 70%;
+	background-color: #12B5A2;
+	color: white;
+	font-weight: 100
+	line-height: 1.7em
+	text-align: left
+	font-size: 16px;
+
+	margin-bottom: 10px;
+	padding-top: 2px;
+	padding-right: 30px;
+	position: relative;
+	float: left;
+	margin-right: 50px;
+
+
+
+}
+
+.crystals img{
+	cursor: pointer;
+	padding: 25px;
+	float: center;
+}
+p{
+	color: green;
+	padding: 5px;
+}
+.start{
+	height:105px;
+    width:300px;
+    display: inline-block;
+}
+.total{
+	width:100px;
+	height: 90px;
+	background-color: #12B5A2;
+	margin-right: 10px;
+	font-size: 30px;
+	color: purple;
+	padding: 10px;
+	position: relative;
+	top: 30px;
+
+
+}
+.result{
+	width:100px;
+	height: 100px;
+	background-color: #12B5A2;
+	margin-left: 160px;
+	margin-top:-90px;
+	color: white;
+	padding: 5px;
+	top: 10px;
+	position: relative;
+}
+.click{
+	width:80px;
+	height:80px;
+}
+.score{
+	width: 180px;
+	height:30px;
+	background-color: #12B5A2;
+	margin-bottom: 10px;
+	position: relative;
+	left: 300px;
+	bottom: 120px;
+
+}
+
+
+h5{
+	color: white;
+	padding-top: 7px;
+	padding: 5px;
+
+}
+.addition{
+	width:170px;
+	height:60px;
+	background-color: #12B5A2;
+	font-size: 30px;
+	color: white;
+	position: relative;
+	left: 300px;
+	bottom: 120px;
+	margin-top: -10px;
+	padding: 5px;
+}
